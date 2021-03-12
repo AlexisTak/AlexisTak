@@ -4,4 +4,4 @@
 
 ## Développeure FullStack
 
-Principalement du Web, Cependant je fais aussi du Java, C# et C quand j'en ai besoin
+Principalement du Web, Cependant je fais aussi du Java, C# etc quand j'en ai besoin
