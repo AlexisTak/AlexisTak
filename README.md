@@ -22,5 +22,3 @@
 
 
 [![My Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlexisTak&layout=compact&show_icons=true)](https://#)
-
-![](https://hit.yhype.me/github/profile?user_id=58334832)
