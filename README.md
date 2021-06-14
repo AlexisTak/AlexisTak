@@ -10,10 +10,8 @@
 
 <h3 align="left">Vous chercher de l'aide pour développeur un client/serveur Minecraft ?</h3>
 <p align="left">
-<a href="https://discord.gg/ym2KzMe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KWkYUzCt53" height="30" width="40" /></a>
-  
-  
-<a href="https://discord.gg/P8fQpHDpCd" target="blank"><img align="center" src="https://fr.seaicons.com/wp-content/uploads/2015/10/Minecraft-1-icon.png" alt="KWkYUzCt53" height="35" width="35"/></a>
+<a href="https://discord.gg/ym2KzMe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KWkYUzCt53" height="40" width="40" /></a>è  
+<a href="https://discord.gg/P8fQpHDpCd" target="blank"><img align="center" src="https://fr.seaicons.com/wp-content/uploads/2015/10/Minecraft-1-icon.png" alt="KWkYUzCt53" height="40" width="40"/></a>
 </p>
 
 
