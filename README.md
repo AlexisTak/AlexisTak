@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, Alexis - Sweetosky</h1>
-<h3 align="center">A fullstack developer from France</h3>
+<h3 align="left">Encient développeur de 25 ans dans un groupe Emmaüs j'ai décider de quitté cette emplois après 6ans d'expérience. Depuis j'ai décider d'avoir un statut Freelance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warstrolo&label=Profile%20views&color=0e75b6&style=flat" alt="AlexisTak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexisTak" alt="AlexisTak" /></a> </p>
 
+- 🌟 J'aime principalement apporter mes compétences aux personne qui le demande et qui le mérite, les jeux font aussi partie de ma vie t'elle que OverWatch, WOW, Lol etc...
 
 - 💬 Ask me about **VueJS, Elixir, Laravel, Java, React, React Native, C#**
 
-<h3 align="left">Looking for help developing a Minecraft client / server or community ?</h3>
+
 <p align="left">
 <a href="https://discord.gg/ym2KzMe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KWkYUzCt53" height="40" width="40" /></a>
 <a href="https://discord.gg/P8fQpHDpCd" target="blank"><img align="center" src="https://fr.seaicons.com/wp-content/uploads/2015/10/Minecraft-1-icon.png" alt="KWkYUzCt53" height="40" width="40"/></a>
