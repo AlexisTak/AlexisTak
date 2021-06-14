@@ -15,7 +15,7 @@
 
 <h3 align="left">Mon projet Minecraft Learning ! <h3>
 <p align="left">
-<a href="https://discord.gg/P8fQpHDpCd" target="blank"><img align="center" src="https://fr.seaicons.com/wp-content/uploads/2015/10/Minecraft-1-icon.png" alt="KWkYUzCt53" height="30" width="40" color="red" /></a>
+<a href="https://discord.gg/P8fQpHDpCd" target="blank"><img align="center" src="https://fr.seaicons.com/wp-content/uploads/2015/10/Minecraft-1-icon.png" alt="KWkYUzCt53" height="60" width="50" color="red" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
