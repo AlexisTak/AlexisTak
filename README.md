@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexisTak" alt="AlexisTak" /></a> </p>
 
-- 🌟 J'aime principalement apporter mes compétences aux personne qui le demande et qui le mérite, les jeux font aussi partie de ma vie t'elle que OverWatch, WOW, Lol etc...
+- 🌟 J'aime principalement apporter mes compétences aux personnes qui le demandent. Les jeux font aussi partie de ma vie tel qu'OverWatch, World Of Warcraft, League of Legends, etc...
 
 - 💬 Ask me about **VueJS, Elixir, Laravel, Java, React, React Native, C#**
 
