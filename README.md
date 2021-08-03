@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Alexis - Sweetosky</h1>
 <h3 align="left">Encient développeur de 25 ans dans un groupe Emmaüs j'ai décider de quitté cette emplois après 6ans d'expérience. Depuis j'ai décider d'avoir un statut Freelance.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=warstrolo&label=Profile%20views&color=0e75b6&style=flat" alt="AlexisTak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexistak&label=Profile%20views&color=0e75b6&style=flat" alt="AlexisTak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexisTak" alt="AlexisTak" /></a> </p>
 
@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexisTak&show_icons=true&cache_seconds=0&locale=en&count_private=true" alt="AlexisTak" /></p
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisTak&" alt="AlexisTak" /></p>
-
-<a href="https://github.com/warstrolo/warstrolo">#warstrolo</a>
