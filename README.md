@@ -1,7 +1,5 @@
 <h1 align="center">Alexis - Sweetosky</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexisTak" alt="AlexisTak" /></a> </p>
-
 - 🌟 J'aime principalement apporter mes compétences aux personnes qui le demandent. Les jeux font aussi partie de ma vie tel que Minecraft, World Of Warcraft, etc...
 
 
