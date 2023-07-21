@@ -1,13 +1,6 @@
 <h1 align="center">Alexis - Sweetosky</h1>
 
-- 🌟 J'aime principalement apporter mes compétences aux personnes qui le demandent. Les jeux font aussi partie de ma vie tel que Minecraft, World Of Warcraft, etc...
-
-
-
-<p align="left">
-<a href="https://discord.gg/ym2KzMe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KWkYUzCt53" height="40" width="40" /></a>
-<a href="https://discord.gg/P8fQpHDpCd" target="blank"><img align="center" src="https://fr.seaicons.com/wp-content/uploads/2015/10/Minecraft-1-icon.png" alt="KWkYUzCt53" height="40" width="40"/></a>
-</p>
+<h2>- 🌟Développeur, bien plus qu'un métier, une passion</h2>
 
 
 <h3 align="left">Languages and Tools:</h3>
